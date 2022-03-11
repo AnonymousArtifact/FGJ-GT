@@ -66,6 +66,10 @@ textarea {
   font-size: 14px;
 }
 
+#unify-output {
+        display: none;
+}
+
 #fj-input {
   resize: none;
   outline: none;
